@@ -39,4 +39,7 @@
 - https://tangjinzhou.gitee.io/ant-design-vue/docs/vue/introduce-cn/
 **Vue**
 - https://cn.vuejs.org/
-
+**ScrollReveal**
+- https://scrollrevealjs.org
+**Hover.css**
+- http://ianlunn.github.io/Hover/
